@@ -1,0 +1,8 @@
+datasets
+torch 
+torchvision 
+torchaudio 
+transformers
+peft
+evaluate
+scikit-learn
